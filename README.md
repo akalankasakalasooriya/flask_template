@@ -2,7 +2,7 @@
 flask template with waitress WSGI server and kubernetes (minikube)
 
 ## Docker commands
-```eval $(minikube docker-env)```
+```eval $(minikube docker-env)```<br>
 ```docker compose up --build -d```
 
 ## Kubectl commands
